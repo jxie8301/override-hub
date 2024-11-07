@@ -406,7 +406,7 @@ rule-providers:
     format: text
     type: http
   OpenAi:
-    url: https://ghp.ci/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OpenAi.list
+    url: https://ghp.ci/https://raw.githubusercontent.com/dongshull/ClashRule/main/yaml/OpenAi.yaml
     path: ./ruleset/OpenAi.list
     behavior: classical
     interval: 86400
